@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+  font-size: x-large;
+}
+
+label {
+  font-size: large;
+}
+
+input[type="number"] {
+  font-size: large;
+}
+
+button {
+  font-size: x-large;
+  display: block;
+}
+
+.plateLabel {
+  font-weight: bold;
+  font-size: 23px;
+  text-anchor:middle;
+}
+
+.plate {
+  stroke: black;
+}
+
+#thebar {
+  fill: gray;
+}
+
+.lbs_55 {
+  fill: black;
+}
+
+.lbs_45 {
+  fill: red;
+}
+
+.lbs_35 {
+  fill: blue;
+}
+
+.lbs_25 {
+  fill: yellow;
+}
+
+.lbs_15 {
+  fill: greenyellow;
+}
+
+.lbs_10 {
+  fill: greenyellow;
+}
+
+.lbs_5 {
+  fill: blue;
+}
+
+.lbs_2_5 {
+  fill: green;
+}
+
+.lbs_1_25 {
+  fill: white;
+}
